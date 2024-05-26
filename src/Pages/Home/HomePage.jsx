@@ -1,9 +1,13 @@
+import Banner from "../../Components/Banner";
+import WelcomeSection from "../../Components/WelcomeSection";
+
 
 
 const HomePage = () => {
     return (
         <div>
-           Home Page.. 
+            <Banner />
+            <WelcomeSection />
         </div>
     );
 };

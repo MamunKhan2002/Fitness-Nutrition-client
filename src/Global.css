@@ -1,0 +1,7 @@
+/* <-----Main & Navigation Styles----->*/
+.Main,
+.navigation {
+    max-width: 1366px;
+    /* max-width: 91%; */
+    margin-inline: auto;
+}
